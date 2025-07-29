@@ -5,7 +5,7 @@
 Wheel-legged robots combine the high-speed mobility of wheeled robots and the obstacle-surmounting ability of legged robots. This list aims to collect and organize resources for researchers, engineers, and enthusiasts in this field.
 
 欢迎 PR 贡献中文资料！  
-*Inspired by [awesome-robotics](https://github.com/Sanster/awesome-robotics) and [awesome-legged-robots](https://github.com/ethz-adrl/awesome-legged-robots)*
+*Inspired by [awesome-robotics](https://github.com/kiloreux/awesome-robotics.git) and [awesome-legged-robots](https://github.com/apexrl/awesome-rl-for-legged-locomotion.git)*
 
 ---
 
