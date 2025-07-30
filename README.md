@@ -1,10 +1,10 @@
 # Awesome Wheel-Legged Robots [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> **A curated list of awesome open-source projects, papers, datasets, simulators, hardware, tutorials, and resources for wheel-legged robots.**
+> **A curated list of awesome open-source projects, papers, hardware and resources for wheel-legged robots.**
 
 Wheel-legged robots combine the high-speed mobility of wheeled robots and the obstacle-surmounting ability of legged robots. This list aims to collect and organize resources for researchers, engineers, and enthusiasts in this field.
 
-欢迎 PR 贡献中文资料！  
+
 *Inspired by [awesome-robotics](https://github.com/kiloreux/awesome-robotics.git) and [awesome-legged-robots](https://github.com/apexrl/awesome-rl-for-legged-locomotion.git)*
 
 ---
@@ -24,6 +24,7 @@ Wheel-legged robots combine the high-speed mobility of wheeled robots and the ob
 - [Go2w-RL](https://github.com/ShengqianChen/go2w_rl_gym.git) - A repository that offers a complete simulation environment training and physical deployment for the Unitree Go2w robots.
 - [Go2w-dreamwaq-RL](https://github.com/ShengqianChen/DreamWaQ_Go2W.git) - This repo contains my implementation of the paper "Learning Robust Quadrupedal Locomotion With Implicit Terrain Imagination via Deep Reinforcement Learning" on Go2W.
 - [Wheel-Legged-Gym](https://github.com/clearlab-sustech/Wheel-Legged-Gym.git) - A repository that offers a RL-based framework for wheel legged robot(two legged).
+- [Tron1-IsaacGym](https://github.com/limxdynamics/tron1-rl-isaacgym.git) - A reinforcement learning training framework designed specifically for Tron1 robots, providing comprehensive tools for simulation and training, and supporting reinforcement learning in various environments.
 
 
 ---
