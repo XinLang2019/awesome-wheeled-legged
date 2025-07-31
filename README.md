@@ -26,6 +26,8 @@ Wheel-legged robots combine the high-speed mobility of wheeled robots and the ob
 - [Wheel-Legged-Gym](https://github.com/clearlab-sustech/Wheel-Legged-Gym.git) - A repository that offers a RL-based framework for wheel legged robot(two legged).
 - [Tron1-IsaacGym](https://github.com/limxdynamics/tron1-rl-isaacgym.git) - A reinforcement learning training framework designed specifically for Tron1 robots, providing comprehensive tools for simulation and training, and supporting reinforcement learning in various environments.
 
+- [Untree-B2W](https://github.com/aCodeDog/legged-robots-manipulation.git) -  A loco-manipulation repository for (wheel-)legged robots
+
 
 ---
 
